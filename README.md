@@ -5,6 +5,7 @@ Case study PayPal
 ## Overview and Origin
 ​
 * Name of company
+PayPal 
 ​
 * When was the company incorporated?
 ​
