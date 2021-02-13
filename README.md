@@ -7,7 +7,7 @@ Case study PayPal
 * Name of company
 PayPal 
 ​
-* When was the company incorporated?
+* When was the company incorporated? 1998
 ​
 * Who are the founders of the company?
 ​
