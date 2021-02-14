@@ -23,6 +23,14 @@ By the end of 2019, PayPal predicts its total revenue to be in the range of $17.
 
 In Financial Year 2020 PayPal saw a total payment volume (TPV) of $936 billion, growing 31% on a spot and FXN basis. An approximate $5.9 billion in Operating Cash Flow and around $5.0 billion in Free Cash Flow and an added 72.2 million Net New Active Accounts. 
 
+The below graphs how the success of PayPal most recently.
+
+<img width="486" alt="Screen Shot 2021-02-14 at 7 24 35 pm" src="https://user-images.githubusercontent.com/77876459/107872404-4ac36500-6efe-11eb-9f4b-ccdeaf1f6732.png">
+
+<img width="477" alt="Screen Shot 2021-02-14 at 7 25 16 pm" src="https://user-images.githubusercontent.com/77876459/107872433-7e9e8a80-6efe-11eb-9c62-a6718066c1f8.png">
+
+
+
 
 ​
 ​
