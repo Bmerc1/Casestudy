@@ -1,5 +1,5 @@
-# Casestudy
-Case study PayPal 
+# ASSIGNMENT 1
+student: Briar Mercier 
 # A CASE STUDY: PAYPAL
 ​
 ## Overview and Origin
