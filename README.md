@@ -35,8 +35,11 @@ The below graphs illustrate the most recent success of PayPal.
 * What specific financial problem is the company or project trying to solve?
 ​
 
- The company provides a non exclusive service that is accessible for all.The Firm's choices are guided by a single value- the democratization if financial services so that an citizen can have an account and have access to a line of credit it they need it, and that SMB's can get access to the capital they need to first stay open, and expand. 
- To reiterates its for 'all service', the company introduced PayPal Credit in 2016 specifically targeting young millennial shoppers. The consumer through certain platforms is now offered  'PayPal Credit' button that says " Enjoy Easy Payments." The consumer can now purchase the product and stretch the payments over nine months instead of purchasing in one lump sum.
+ The company provides a non exclusive service that is accessible for all.
+ 
+ The Firm's choices are guided by a single value- the democratization of its financial services so that an citizen can have an account and have access to a line of credit it they need it, and that SMB's can get access to the capital they need to first stay open, and expand. 
+
+ Reiterating an inclusive servive, the company introduced PayPal Credit in 2016. The consumer through certain platforms is now offered  'PayPal Credit' for consumers to purchase larger value items however, spend payment over a payment plan.  The consumer can now purchase the product and stretch the payments over nine months instead of purchasing in one lump sum.
 
  Making the company hyper competitive PayPal offer complete transparent pricing, 2.9% + $0.30 or less for merchants all while offering discounted rates when you sell a lot, or when you use the PayPal card reader. 
 
@@ -51,11 +54,23 @@ It should be noted that PayPal has acquired a number of companies over the years
 ​
 ## Landscape:
 ​
-The financial Industry that PayPal is the online banking domaing 
+The financial Industry that PayPal is the online payment processing.
 ​
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+The Payment processing industry has gone through significant transformations over the last 5-10 years. It could be said, especially our post-covid world, that cash has lost is dominate position as the most common payment method. Contactless payments use are gaining more and more popularity and speed. Mobile Wallets such as Apple Pay, Samsung Pay, and Google Pay are expected to make up an increasing segment of payment methods over the next few years. 
+
+Parallel to the growing trend in digial wallets is the need and innovation for increased consumer protection. Increasing machine learning to safeguard customer data as well as prevent fraud and protect identity. 
 ​
 * What are the other major companies in this domain?
+Stripe.
+Square.
+Shopify Payments.
+Amazon Pay.
+Braintree.
+Intuit.
+Authorize.net.
+WePay.
 ​
 ## Results
 ​
@@ -63,7 +78,7 @@ The financial Industry that PayPal is the online banking domaing
 ​
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 ​
-* How is your company performing relative to competitors in the same domain?
+* How is your company performing relative to competitors in the same domain? mm 
 ​
 ## Recommendations
 ​
