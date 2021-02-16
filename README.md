@@ -34,15 +34,24 @@ The below graphs illustrate the most recent success of PayPal.
 ​
 * What specific financial problem is the company or project trying to solve?
 ​
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-​
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-​
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+ The company provides a non exclusive service that is accessible for all.The Firm's choices are guided by a single value- the democratization if financial services so that an citizen can have an account and have access to a line of credit it they need it, and that SMB's can get access to the capital they need to first stay open, and expand. 
+ To reiterates its for 'all service', the company introduced PayPal Credit in 2016 specifically targeting young millennial shoppers. The consumer through certain platforms is now offered  'PayPal Credit' button that says " Enjoy Easy Payments." The consumer can now purchase the product and stretch the payments over nine months instead of purchasing in one lump sum.
+
+ Making the company hyper competitive PayPal offer complete transparent pricing, 2.9% + $0.30 or less for merchants all while offering discounted rates when you sell a lot, or when you use the PayPal card reader. 
+
+ PayPal even goes as far as allowing one to puchase Cryptocurreny via the platform and will protect your private key by holding your Cryptocurreny balance on your account. This takes away the worry or concern of loosing you private key- making PayPal a leader in this domain and a company hard to compete with.
+
+PayPal use many different technologie. One is an Automated Clearing House (ACH) this is a digital layer to allow more seamless transfers between bank accounts, significantly decreasing the friction of online and P2P payment. 
+
+Another conpoment of PayPal’s technology enables an online merchant to collect payments from users     whether or not they have a PayPal account. 
+
+It should be noted that PayPal has acquired a number of companies over the years, expanding its core technology to offer even better payment experiences to consumers and backend systems to merchants. Despite these acquisitions the the core of money transfer via PayPal and its subsidiaries relies on a fundamental banking infrastructure ACH — to get money from one party to another.
+
 ​
 ## Landscape:
 ​
-* What domain of the financial industry is the company in?
+The financial Industry that PayPal is the online banking domaing 
 ​
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 ​
