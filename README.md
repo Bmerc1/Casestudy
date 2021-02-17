@@ -33,6 +33,8 @@ The below graphs illustrate the most recent success of PayPal.
 ## Business Activities:
 ​
 * What specific financial problem is the company or project trying to solve?
+
+A
 ​
 
  The company provides a non exclusive service that is accessible for all.
@@ -55,8 +57,6 @@ It should be noted that PayPal has acquired a number of companies over the years
 ## Landscape:
 ​
 The financial Industry that PayPal is the online payment processing.
-​
-* What have been the major trends and innovations of this domain over the last 5-10 years?
 
 The Payment processing industry has gone through significant transformations over the last 5-10 years. It could be said, especially our post-covid world, that cash has lost is dominate position as the most common payment method. Contactless payments use are gaining more and more popularity and speed. Mobile Wallets such as Apple Pay, Samsung Pay, and Google Pay are expected to make up an increasing segment of payment methods over the next few years. 
 
@@ -76,9 +76,21 @@ WePay.
 ​
 * What has been the business impact of this company so far?
 ​
+ Paypal has, to date, had a huge global impact and continues to make noteable progress on the company's global impact strategy and achieve key milestones. Some key highlight on business impact: 
+ 
+ -Leveraged the power of its giving platform to process $16 billion in contributions, including well over $10 billion in contributions to charitable causes, from more than 40 million people around the world.
+
+ -Utilized the power of its global workforce for good with employee giving and volunteer programs, including more than 43% of employees participating globally in the Kiva lending campaign – empowering ~10,000 entrepreneurs across 36 countries.
+
+ -Developed products and services to help individuals and businesses improve their financial health, including the PayPal Commerce Platform and PayPal's business financing solutions, as well as investments in companies driving financial wellne
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+There are many metrics that online payment processing fintech companies use to measure sucess. These range from Acquition/rentention metrics to employee and social welbeing. 
+
+Based on these metrics PayPal is preforming above par. In regards to social wellbeing the company Made it a strategic priority to strengthen the financial health of its employees by establishing an Employee Financial Wellness Program. Through this program, PayPal raised wages, expanded benefits, reduced healthcare costs, and gave every employee an ownership stake in the company. They have also maintained 100% pay equity for women globally and ethnic pay parity (USA for the fourth year in a row.
+
 ​
-* How is your company performing relative to competitors in the same domain? mm 
 ​
 ## Recommendations
 ​
