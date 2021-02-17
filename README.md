@@ -132,11 +132,12 @@ The technologies presented are currently used and are most practical to service 
 
 Sources: 
 
-# https://medium.com/@bharath.bkj/the-story-of-paypal-b708efe83064
-# https://www.referenceforbusiness.com/history2/86/PayPal-Inc.html
-# https://s1.q4cdn.com/633035571/files/doc_financials/2020/q4/Q4-FY-20-PayPal-Earnings-Release.pdf
-# https://www.chicagotribune.com/business/ct-personal-finance-paypal-easy-payment-plans-20160128-story.html
-# https://www.afterpaytouch.com/case-studies/afterpay
-# https://www.fool.com/investing/2020/02/19/where-will-paypal-be-in-5-years.aspx
-# https://www.benzinga.com/fintech/19/06/13911172/fintech-analytics-the-top-7-metrics-every-#fintech-company-should-monitor
-# https://fin.plaid.com/articles/paypals-history-of-fighting-fraud/
+* https://medium.com/@bharath.bkj/the-story-of-paypal-b708efe83064
+* https://www.referenceforbusiness.com/history2/86/PayPal-Inc.html
+* https://s1.q4cdn.com/633035571/files/doc_financials/2020/q4/Q4-FY-20-PayPal-Earnings-Release.pdf
+* https://www.chicagotribune.com/business/ct-personal-finance-paypal-easy-payment-plans-20160128-story.html
+* https://www.afterpaytouch.com/case-studies/afterpay
+* https://www.fool.com/investing/2020/02/19/where-will-paypal-be-in-5-years.aspx
+* https://www.benzinga.com/fintech/19/06/13911172/fintech-analytics-the-top-7-metrics-every-#fintech-company-should-monitor
+* https://fin.plaid.com/articles/paypals-history-of-fighting-fraud/
+* https://www.paypal.com/au/home 
