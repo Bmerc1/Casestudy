@@ -34,20 +34,32 @@ The below graphs illustrate the most recent success of PayPal.
 ​
 * What specific financial problem is the company or project trying to solve?
 
-A
-​
+A specific financial problem that PayPal is trying to slove is exposure to fraudulent actvities. 
 
- The company provides a non exclusive service that is accessible for all.
+It is without a doubt that electronic transaction is simple, and convenient. But it also involves a highly level of risk at the same time.
+
+To help combat fraud in the earlier days of the business PayPal built IGOR ( nicknamed after a Russian fraudster who had taunted them in earlier days) to help identify abnormal patterns in one of the first major commercial applications of big data.
+
+Between the CAPTCHA solution and Igor, PayPal’s innovative solutions turned out to make a huge impact. Within a few months, PayPal’s fraud rates had dropped dramatically. Today 170 million people use PayPal, and the company’s fraud rate is only 0.32 percent of revenue. 
+
+
+​ * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+ The company provides a non exclusive service that is accessible for all and does not target a specific customer.
  
  The Firm's choices are guided by a single value- the democratization of its financial services so that an citizen can have an account and have access to a line of credit it they need it, and that SMB's can get access to the capital they need to first stay open, and expand. 
 
  Reiterating an inclusive servive, the company introduced PayPal Credit in 2016. The consumer through certain platforms is now offered  'PayPal Credit' for consumers to purchase larger value items however, spend payment over a payment plan.  The consumer can now purchase the product and stretch the payments over nine months instead of purchasing in one lump sum.
 
- Making the company hyper competitive PayPal offer complete transparent pricing, 2.9% + $0.30 or less for merchants all while offering discounted rates when you sell a lot, or when you use the PayPal card reader. 
+  * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+ An aspect that is making the company hyper competitive is it ability to offer complete transparent pricing, 2.9% + $0.30 or less for merchants all while offering discounted rates when you sell a lot, or when you use the PayPal card reader. 
 
  PayPal even goes as far as allowing one to puchase Cryptocurreny via the platform and will protect your private key by holding your Cryptocurreny balance on your account. This takes away the worry or concern of loosing you private key- making PayPal a leader in this domain and a company hard to compete with.
 
-PayPal use many different technologie. One is an Automated Clearing House (ACH) this is a digital layer to allow more seamless transfers between bank accounts, significantly decreasing the friction of online and P2P payment. 
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+PayPal use many different technologie. One of the basics is an Automated Clearing House (ACH) this is a digital layer to allow more seamless transfers between bank accounts, significantly decreasing the friction of online and P2P payment. 
 
 Another conpoment of PayPal’s technology enables an online merchant to collect payments from users     whether or not they have a PayPal account. 
 
@@ -86,7 +98,7 @@ WePay.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-There are many metrics that online payment processing fintech companies use to measure sucess. These range from Acquition/rentention metrics to employee and social welbeing. 
+There are many metrics that online payment processing fintech companies use to measure success. These range from Acquition/rentention metrics to employee and social welbeing metrics. 
 
 Based on these metrics PayPal is preforming above par. In regards to social wellbeing the company Made it a strategic priority to strengthen the financial health of its employees by establishing an Employee Financial Wellness Program. Through this program, PayPal raised wages, expanded benefits, reduced healthcare costs, and gave every employee an ownership stake in the company. They have also maintained 100% pay equity for women globally and ethnic pay parity (USA for the fourth year in a row.
 
@@ -95,9 +107,36 @@ Based on these metrics PayPal is preforming above par. In regards to social well
 ## Recommendations
 ​
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Based on the research undertaken, reviews explored and personal experience. My recommendation for PayPal would be to offer a borrowing/leanding platform similar to afterpay. The rise seen in these platforms have grown significantly and has caused a decrease in credit card use. Although PayPal offer 'PayPal Credit' the purchase amounts are for niche products which are undisclosed to the public. 
+
+As China only represents 10% of revenue for PayPal, there is a huge opportunity to serve a massive massive and offer highly competitive rates. My advice would be to build stronger and look at avenue at establishing the Platform and the 'trusted go-to'. 
 ​
 * Why do you think that offering this product or service would benefit the company?
+
+Offering a borrowing/leanding service on an already loved and trusted platform would only buy benefit the company for greater longeivity. 
+
+In regards to China, PayPal has an established trusted platform that is underserved within the Chinese market. The ability to connect and build rapport in this country would only but push to greater growth levels. 
+
 ​
 * What technologies would this additional product or service utilize?
+
+For a borrowing/leanding platform PayPal would require a Transaction Integrity Engine, which conducts end-customer fraud and repayment capability assessments in real-time. 
+
+It would also require to aquire technology that has high and reliable Payment Card Industry Data Security Standards (PCI DSS).
+
 ​
 * Why are these technologies appropriate for your solution?
+
+The technologies presented are currently used and are most practical to service a borrowing/lending platform. 
+
+Sources: 
+
+# https://medium.com/@bharath.bkj/the-story-of-paypal-b708efe83064
+# https://www.referenceforbusiness.com/history2/86/PayPal-Inc.html
+# https://s1.q4cdn.com/633035571/files/doc_financials/2020/q4/Q4-FY-20-PayPal-Earnings-Release.pdf
+# https://www.chicagotribune.com/business/ct-personal-finance-paypal-easy-payment-plans-20160128-story.html
+# https://www.afterpaytouch.com/case-studies/afterpay
+# https://www.fool.com/investing/2020/02/19/where-will-paypal-be-in-5-years.aspx
+# https://www.benzinga.com/fintech/19/06/13911172/fintech-analytics-the-top-7-metrics-every-#fintech-company-should-monitor
+# https://fin.plaid.com/articles/paypals-history-of-fighting-fraud/
