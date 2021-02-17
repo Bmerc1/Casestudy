@@ -128,7 +128,8 @@ It would also require to aquire technology that has high and reliable Payment Ca
 ​
 * Why are these technologies appropriate for your solution?
 
-The technologies presented are currently used and are most practical to service a borrowing/lending platform. 
+The technologies presented above are currently used in popular lending platforms and are most practical to servicing such a platform. 
+
 
 Sources: 
 
