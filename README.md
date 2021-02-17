@@ -108,7 +108,7 @@ Based on these metrics PayPal is preforming above par. In regards to social well
 ​
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-Based on the research undertaken, reviews explored and personal experience. My recommendation for PayPal would be to offer a borrowing/leanding platform similar to afterpay. The rise seen in these platforms have grown significantly and has caused a decrease in credit card use. Although PayPal offer 'PayPal Credit' the purchase amounts are for niche products which are undisclosed to the public. 
+Based on the research undertaken, reviews explored and personal experience. My recommendation for PayPal would be to offer a borrowing/leanding platform similar to Afterpay. The rise seen in these platforms have grown significantly and has caused a decrease in credit card use. Although PayPal offer 'PayPal Credit' the purchase amounts are for niche products which are undisclosed to the public. 
 
 As China only represents 10% of revenue for PayPal, there is a huge opportunity to serve a massive massive and offer highly competitive rates. My advice would be to build stronger and look at avenue at establishing the Platform and the 'trusted go-to'. 
 ​
