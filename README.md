@@ -13,7 +13,7 @@ In the early 1990s, sending and receiving payments online between individuals wa
 
 The idea of the founders was simple and efficient. It set out to convince customers to share their email, banking and credit card information in return for fast, low-cost payments. 
 
-When PayPal officially launched in 2000, it gained rapid success. This was mainly due to using referrals and small charges for signing up.  After watching PayPal become the premier choice of Internet auctions such as eBay and parallel to achieveing 200 million users accounts worldwide, interim CEO Peter Thiel sought to seek a buyer. Setting the minimum at $600 million dollars, both Google and Yahoo denied. The company then prepared for an IPO and was valued by the market at $1.2 billion.  After several weeks of negotiation eBay acquired PayPal in 2002 for $1.5 billion, a sustainable amount more than its original $400 million dollar offer.  
+When PayPal officially launched in 2000, it gained rapid success. This was mainly due to using referrals and small charges for signing up.  After watching PayPal become the premier choice of Internet auctions such as eBay and parallel to achieveing 200 million users accounts worldwide, interim CEO Peter Thiel sought to seek a buyer. Setting the minimum at $600 million dollars, both Google and Yahoo denied. The company then prepared for an IPO and was valued by the market at $1.2 billion.  After several weeks of negotiation eBay acquired PayPal in 2002 for $1.5 billion, a large amount more than its original $400 million dollar offer.  
 
 In late 2014, PayPal spilt from eBay. Both companies President and CEO John Donahoe cited  “As separate, independent companies, eBay, led by Devin Wenig, and PayPal, led by Dan Schulman, will each have a sharper focus and greater flexibility to pursue future success in their respective global commerce and payments markets. I am confident that eBay and PayPal each have the right leadership team, strategy, structure and operational discipline to create sustainable, long-term value for stockholders and deliver great opportunities and experiences for customers worldwide.”
 
@@ -36,7 +36,7 @@ The below graphs illustrate the most recent success of PayPal.
 
 A specific financial problem that PayPal is trying to slove is exposure to fraudulent actvities. 
 
-It is without a doubt that electronic transaction is simple, and convenient. But it also involves a highly level of risk at the same time.
+It is without a doubt that an electronic transaction is simple, and convenient. But it also involves a highly level of risk at the same time.
 
 To help combat fraud in the earlier days of the business PayPal built IGOR ( nicknamed after a Russian fraudster who had taunted them in earlier days) to help identify abnormal patterns in one of the first major commercial applications of big data.
 
